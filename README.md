@@ -1,5 +1,5 @@
-# bank_ui_kit
- Bank UX Kit tailored for initializing payments, expense tracking, and wise security for users is a specialized design toolkit specifically focused on creating a user-friendly and secure digital banking experience with a strong emphasis on payment initiation, expense management, and user security. Here's a detailed description of what this specialized UX kit might include:
+# FinED
+ FinED tailored for initializing payments, expense tracking, and wise security for users is a specialized design toolkit specifically focused on creating a user-friendly and secure digital banking experience with a strong emphasis on payment initiation, expense management, and user security. Here's a detailed description of what this specialized UX kit might include:
 
 1. **Payment Initiation Components**:
    - **Payment Forms**: Pre-designed forms for various types of payments, including one-time transfers, recurring payments, bill payments, and international wire transfers.
